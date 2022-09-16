@@ -6,8 +6,8 @@ Projeto construído do evento NLW da Rocketseat.
 
 ## Tecnologias
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 [Link pro projeto](https://leandrolouback.github.io/nlw-e-sports)
